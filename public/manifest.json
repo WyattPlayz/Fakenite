@@ -1,0 +1,16 @@
+{
+  "short_name": "Fortnite Battle Royal",
+  "name": "Fortnite Battle Royal",
+  "icons": [
+    {
+      "src": "/assets/95D997F5-E360-4F29-B59C-50F5C1BF1E43.jpeg",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#000000",
+  "scope": "/",
+  "display": "standalone",
+  "theme_color": "#000000"
+}
